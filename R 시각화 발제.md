@@ -6,7 +6,7 @@ Ref:
 - R을 이용한 데이터 처리 & 분석 실무[1]
 https://thebook.io/006723/ch06/
 
-- R로 하는 데이터 시각화: Ch4 ggplot2를 이용 데이터 시각화 [2]
+- R로 하는 데이터 시각화: Ch4 ggplot2를 이용 데이터 시각화 [2] (파일첨부)
 
 - 보고용 차트를 위한 ggplot2 사용하기[3]
 https://mrchypark.github.io/data_camp_dabrp/ggplot.html
@@ -53,5 +53,5 @@ __확실히 개념 잡기__ ref[2]
 
 
 
-__예제 __ref[3]
+**예제**  ref[3]
 
